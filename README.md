@@ -4,6 +4,7 @@ Projeto Integrado 2 - BootCamp Practicum
 Obs: No projeto usei gráficos interativos gerados pelo Plotly Express como eles não são exibidos corretamente, transformei os gráficos em estáticos para conseguir visualizá-los aqui.
 
 <strong>Descrição do Projeto:</strong>
+
 Você trabalha em uma startup que vende produtos alimentícios. Você precisa analisar o comportamento do usuário para o aplicativo da empresa.
 Primeiro estude o funil de vendas. Descubra como os usuários chegam à etapa de compra.Quantos usuários realmente chegam a essa etapa? Quantos ficam presos nas fases anteriores? Quais etapas em particular?
 Em seguida, veja os resultados do teste A/A/B. (Continue lendo para obter mais informação sobre os testes A/A/B.) Os designers gostariam de alterar as fontes de todo o aplicativo, mas os gerentes temem que os usuários achem o novo design intimidador. Eles decidem tomar a decisão com base nos resultados de um teste A/A/B.
